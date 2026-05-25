@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "redux": "^5.0.1",
+    "react-redux": "^9.2.0",
+    "redux-thunk": "^3.1.0",
+    "@types/react": "19.0.0",
+    "redux-persist": "^6.0.0",
+    "react-native-paper": "*",
+    "react-native-safe-area-context": "~5.6.0",
+    "redux-persist/integration/react": "*",
+    "@react-native-async-storage/async-storage": "2.2.0"
+  }
+}
